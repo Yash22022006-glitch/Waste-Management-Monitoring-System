@@ -1,0 +1,6 @@
+{
+  "name": "AI Waste Segregation & Monitoring System",
+  "description": "An AI-powered smart waste management platform featuring live camera-based waste classification, real-time IoT bin monitoring, and alerts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
